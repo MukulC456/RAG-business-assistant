@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+langchian
+lanchain-openai
+langchain-pinecone
+pypdf
+tiktoken
+psycopg[binary]
